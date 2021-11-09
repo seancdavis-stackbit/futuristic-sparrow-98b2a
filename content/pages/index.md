@@ -2,6 +2,10 @@
 title: Home
 layout: PageLayout
 sections:
+  - body: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: AlertSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
@@ -57,10 +61,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - body: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    type: AlertSection
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
