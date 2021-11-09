@@ -1,2 +1,5 @@
 name: AlertSection
 label: Alert Section
+fields:
+  - type: text
+    name: body
