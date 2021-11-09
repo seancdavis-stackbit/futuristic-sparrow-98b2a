@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - body: I'm an alert. Hear me roar!
     type: AlertSection
-  - body: Alert body text goes here ...
+  - body: ANOTHER ALERT!
     type: AlertSection
   - type: HeroSection
     elementId: ''
