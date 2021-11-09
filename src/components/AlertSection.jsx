@@ -1,4 +1,4 @@
-const AlertSection = ({  body }) => {
+const AlertSection = ({ annotationPrefix, body }) => {
     return <p>{body}</p>
 }
 
