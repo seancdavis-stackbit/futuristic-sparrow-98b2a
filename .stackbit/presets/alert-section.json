@@ -1,0 +1,11 @@
+{
+    "model": "CtaSection",
+    "presets": [
+        {
+            "label": "Button dark",
+            "thumbnail": "images/cta-dark.jpg",
+            "data": {
+            }
+        }
+    ]
+}
