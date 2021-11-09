@@ -1,5 +1,5 @@
 {
-    "model": "CtaSection",
+    "model": "AlertSection",
     "presets": [
         {
             "label": "Button dark",
