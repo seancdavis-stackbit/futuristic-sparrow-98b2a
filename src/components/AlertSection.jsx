@@ -1,5 +1,5 @@
 const AlertSection = ({ body }) => {
-    return <div >
+    return <div data-sb-field-path="">
         <p>{body}</p>
     </div>
 }
