@@ -2,8 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - body: I'm an alert. Hear me roar!
-    type: AlertSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
