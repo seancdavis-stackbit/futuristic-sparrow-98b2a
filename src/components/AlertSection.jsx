@@ -1,6 +1,6 @@
 const AlertSection = ({ body }) => {
-    return <div>
-        <
+    return <div >
+        <p>{body}</p>
     </div>
 }
 
