@@ -2,9 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - body: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - body: I am an alert. Hear me roar!
     type: AlertSection
   - type: HeroSection
     elementId: ''
