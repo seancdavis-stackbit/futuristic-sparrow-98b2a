@@ -1,2 +1,4 @@
 name: AlertSection
 label: Alert Section
+groups:
+  - sectionComponent
