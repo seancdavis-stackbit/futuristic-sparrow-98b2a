@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - body: Alert body text goes here ...
+  - body: I'm an alert. Hear me roar!
     type: AlertSection
   - type: HeroSection
     elementId: ''
