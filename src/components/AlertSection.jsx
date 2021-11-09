@@ -1,7 +1,7 @@
 const AlertSection = ({ annotationPrefix, body }) => {
-    return <div data-sb-field-path={annotationPrefix}>
-        <p>{body}</p>
-        </div>
+    return <div data-sb-field-path={annotationPrefix} className="">
+        <p data-sb-field-path=".body">{body}</p>
+    </div>
 }
 
 export default AlertSection
