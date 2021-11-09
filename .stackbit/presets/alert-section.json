@@ -3,8 +3,9 @@
     "presets": [
         {
             "label": "Default",
-            "thumbnail": "images/cta-dark.jpg",
+            "thumbnail": "images/alert-section-default.png",
             "data": {
+                
             }
         }
     ]
