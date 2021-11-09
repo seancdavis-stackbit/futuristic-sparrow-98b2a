@@ -5,7 +5,7 @@
             "label": "Default",
             "thumbnail": "images/alert-section-default.png",
             "data": {
-                
+                "body": "Alert body text goes here ..."
             }
         }
     ]
