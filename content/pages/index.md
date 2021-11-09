@@ -2,10 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - body: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    type: AlertSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
