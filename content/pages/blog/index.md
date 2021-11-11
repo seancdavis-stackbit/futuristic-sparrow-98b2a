@@ -1,5 +1,5 @@
 ---
-title: Blog 123
+title: Blog
 layout: PageLayout
 sections:
   - type: QuoteSection
