@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog 123
 layout: PageLayout
 sections:
   - type: QuoteSection
@@ -15,8 +15,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
-        padding: ["pt-36", "pb-12", "pr-4", "pl-4"]
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       quote:
         textAlign: left
@@ -40,14 +48,24 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
-        padding: ["pt-12", "pb-12", "pr-4", "pl-4"]
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       subtitle:
         fontWeight: '400'
         fontStyle: normal
@@ -59,8 +77,11 @@ sections:
     colors: colors-f
     title: All about the art of selling fish
     subtitle: Fresh. Better. Faster
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl. Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
         label: Get Started
@@ -79,8 +100,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pl-4', 'pr-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -92,10 +121,14 @@ sections:
         fontWeight: '400'
         fontStyle: normal
         textAlign: left
-        margin: ['mt-5', 'mb-5']
+        margin:
+          - mt-5
+          - mb-5
       text:
         textAlign: left
-        margin: ['mt-0', 'mb-10']
+        margin:
+          - mt-0
+          - mb-10
       actions:
         justifyContent: flex-start
 ---
